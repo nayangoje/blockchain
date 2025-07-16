@@ -1,0 +1,14 @@
+{
+  "name": "document-blockchain",
+  "version": "1.0.0",
+  "description": "A simple document blockchain application",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - deploy to Vercel'"
+  },
+  "keywords": ["blockchain", "documents", "web3", "crypto"],
+  "author": "Your Name",
+  "license": "MIT"
+}
